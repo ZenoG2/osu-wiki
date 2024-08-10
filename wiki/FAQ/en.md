@@ -322,7 +322,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 ### Grades
 
-#### ![][osu! icon] osu!
+#### ![][osu! icon] osu!standard (stable)
 
 | Grade | Condition |
 | :-: | :-- |
@@ -363,6 +363,41 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 | B | Over 80% Accuracy. |
 | C | Over 70% Accuracy. |
 | D | Anything else. |
+
+Osu! Lazer uses the following grading 
+
+#### ![][osu! icon][osu!taiko icon] Osu! and Osu! taiko:
+
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100% accuracy |
+| S | ≥ 95% no misses |
+| A | ≥ 90% |
+| B | ≥ 80% |
+| C | ≥ 70% |
+| D | Anything else |
+
+#### ![][osu!mania] Osu! Mania:
+
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100% accuracy |
+| S | ≥ 95% |
+| A | ≥ 90% |
+| B | ≥ 80% |
+| C | ≥ 70% |
+| D | Anything else |
+
+#### ![][osu!catch] Osu!Lazer Catch uses the same scorring system as Osu!Stable Catch:
+
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100.00% Accuracy |
+| S | 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in osu!mania). |
+| A | 94.01% to 98.00% Accuracy |
+| B | 90.01% to 94.00% Accuracy |
+| C | 85.01% to 90.00% Accuracy |
+| D | Any other accuracy under 85.00%. |
 
 #### All
 
